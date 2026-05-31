@@ -1,0 +1,303 @@
+﻿No,Text_Clause,Label,Category,Shariah_Justification (Academic Standard)
+1,"""Based on the Shariah contract of Ijarah Muntahiyah Bi Tamlik, which is a lease contract ending with ownership through sale.""",1,Shariah_Concept,"Compliant via Ijarah Muntahiyah Bi Tamlik, a recognized lease-to-own contract in Islamic finance."
+2,"""The Facility is a basic term loan with a fixed payment schedule and interest is charged on the daily balance.""",0,Profit_Interest,Non-Compliant: Involves Usury (Riba) through interest-based lending without an underlying trade transaction.
+3,"""This financing is under the Shariah principle of Tawarruq involving two sale and purchase contracts.""",1,Shariah_Concept,"Compliant through the Tawarruq mechanism, ensuring a valid exchange of commodities to generate liquidity."
+4,"""Annual interest rate of 4.5% will be charged on the outstanding loan balance.""",0,Profit_Interest,"Non-Compliant: Direct application of Interest (Riba) on the principal amount, which is strictly prohibited."
+5,"""Late payment (Ta`widh) will be charged at 1% p.a. on the overdue installments.""",1,Late_Payment,"Compliant as Ta'widh serves as compensation for actual loss incurred by the bank, not as a profit-making tool."
+6,"""Compound charges will be imposed on overdue interest and principal.""",0,Late_Payment,"Non-Compliant: Features Compound Interest (Riba al-Jahiliyyah), where debt increases due to the passage of time."
+7,"""The Bank must grant ibra’ (rebate) for early settlement of the financing facility.""",1,Rebate,"Adheres to the principle of Ibra', where the financier waives the right to unearned profit upon early redemption."
+8,"""Selling price will be determined at a later date without any specific price guidelines.""",0,Price_Structure,"Non-Compliant: Presence of Uncertainty (Gharar) regarding the price, which is a fundamental pillar of a valid sale."
+9,"""Funds from this facility may be used for lottery purchases or gambling activities.""",0,Prohibited_Activity,Non-Compliant: Promotes Gambling (Maysir) and prohibited activities that contradict Shariah ethical standards.
+10,"""The Bank's Sale Price is derived based on the Ceiling Profit Rate (CPR) which is fixed throughout the tenure.""",1,Profit_Interest,"Compliant as it establishes a maximum price cap, protecting the customer from excessive rate fluctuations."
+11,"""The Bank has the absolute right to change terms unilaterally without prior notice.""",0,General_Principles,"Non-Compliant: Elements of Uncertainty (Gharar) in the contract terms, leading to potential injustice (Zulm)."
+12,"""Penalty for late payment will be channeled to charitable bodies (Sadaqah fund).""",1,Late_Payment,"Compliant as the penalty (Gharamah) is not taken as bank income, preventing interest-based profit."
+13,"""Financing is available for the purchase of liquor shops or breweries.""",0,Prohibited_Activity,Non-Compliant: Financing of Haraam industries which is against the Shariah principle of social responsibility.
+14,"""Profit is earned through the sale of commodities at a higher price than the purchase price.""",1,Shariah_Concept,"Compliant via Murabahah (cost-plus-profit), where profit is generated through trade, not lending."
+15,"""All risks related to the asset are borne solely by the customer at all times.""",0,General_Principles,"Non-Compliant: Violates the principle of Risk-Sharing in Islamic contracts, especially in leasing (Ijarah)."
+16,"""The Bank's profit on deferred payment basis is derived from the Commodity Murabahah transaction.""",1,Shariah_Concept,"Compliant via Murabahah, where profit is generated through a transparent cost-plus-profit sale."
+17,"""The loan amount will increase if the monthly interest is not paid on time, leading to capitalized interest.""",0,Late_Payment,Non-Compliant: Involves Compound Usury (Riba al-Jahiliyyah) where debt grows due to time.
+18,"""A reduction in the principal amount will result in less interest being charged on the facility.""",0,Profit_Interest,Non-Compliant: Calculation is based on Interest (Riba) charged on a loan principal.
+19,"""The customer is entering into a Musyarakah Mutanaqisah (Diminishing Partnership) agreement.""",1,Shariah_Concept,"Compliant through Musyarakah Mutanaqisah, involving equity partnership and gradual transfer of ownership."
+20,"""Interest is chargeable on the utilized portion of the overdraft facility at a floating rate.""",0,Profit_Interest,Non-Compliant: Explicit use of Usury (Riba) on the amount of credit utilized.
+21,"""This product applies the Shariah concepts of Hibah (gift) and Ju'alah (reward).""",1,Shariah_Concept,Compliant use of Hibah for ownership transfer and Ju'alah for service-based rewards.
+22,"""The contract involves the sale of an asset which the seller does not yet own (Short Selling).""",0,Shariah_Concept,Non-Compliant: Presence of Uncertainty (Gharar) as the seller lacks ownership (Milk) of the asset.
+23,"""Ta’widh is calculated at a rate of 1% per annum on the overdue installments.""",1,Late_Payment,Compliant as Ta'widh is restricted to actual loss compensation as per BNM Shariah standards.
+24,"""The bank will pay a guaranteed return regardless of the business performance of the venture.""",0,Profit_Interest,Non-Compliant: Guarantees on profit in a partnership violate the Risk-Sharing principle.
+25,"""Ibra' is calculated as: (Remaining Tenure x Total Profit) / Total Tenure.""",1,Rebate,Adheres to the standardized formula for Rebate (Ibra') to ensure fairness for the customer.
+26,"""The facility is a basic term loan with a revolving credit element and monthly interest charges.""",0,Shariah_Concept,Non-Compliant: Based on a conventional loan structure involving Usury (Riba).
+27,"""The Bank acts as the Sale Agent for the customer to sell commodities on a cash basis.""",1,Shariah_Concept,Compliant use of Wakalah (agency) to facilitate commodity trading in a Tawarruq arrangement.
+28,"""The contract terms may be amended by the bank at any time without prior consent.""",0,General_Principles,Non-Compliant: Causes Uncertainty (Gharar) and potential injustice in the contractual relationship.
+29,"""HouzKEY homebuyers enjoy 100% financing with no down payment required.""",1,Financing_Structure,Compliant under Ijarah where the bank provides the asset for lease without upfront capital.
+30,"""The borrower must pay a penalty interest for any breach of the loan covenants.""",0,Late_Payment,Non-Compliant: Penalty-based Usury (Riba) used as a punitive measure for non-compliance.
+31,"""The Sale Price is fixed throughout the tenure of the financing facility.""",1,Price_Structure,Compliant as it eliminates Uncertainty (Gharar) regarding the total price of the transaction.
+32,"""Proceeds from this financing will be invested in highly speculative derivative markets.""",0,Prohibited_Activity,Non-Compliant: Involves excessive Uncertainty (Gharar) and elements of Gambling (Maysir).
+33,"""The Bank will grant Ibra’ when the Effective Profit Rate is lower than the Ceiling Profit Rate.""",1,Rebate,Compliant mechanism to adjust the customer's payment based on market rates via Ibra'.
+34,"""Two contracts are combined into one where one is a condition for the other.""",0,Shariah_Concept,Non-Compliant: Prohibited combination of contracts (Al-Uqud al-Murakkabah) leading to Riba.
+35,"""The Bank's Sale Price consists of the Purchase Price plus the Total Profit.""",1,Price_Structure,Compliant as it follows the Murabahah structure where profit and cost are clearly disclosed.
+36,"""The lender takes a share of the profit but does not share in any of the losses.""",0,General_Principles,Non-Compliant: Violates the Risk-Sharing principle (Al-Ghunm bi al-Ghurm) in Shariah.
+37,"""For property under construction, it is based on ljarah mawsufah fi zimmah (forward lease).""",1,Shariah_Concept,Compliant use of Ijarah Mawsufah fi Zimmah for financing assets to be delivered in the future.
+38,"""The selling price is based on the fluctuating value of an undisclosed asset index.""",0,Price_Structure,Non-Compliant: Excessive Uncertainty (Gharar) regarding the subject matter's price.
+39,"""Total Profit is based on the Ceiling Profit Rate of 10.25% per annum.""",1,Profit_Interest,"Compliant as the profit rate is capped, providing a ""safety net"" against excessive Usury."
+40,"""Transaction involves investment in companies that produce and distribute tobacco.""",0,Prohibited_Activity,Non-Compliant: Financing activities that are harmful (Dharar) to society and prohibited.
+41,"""The Bank shall inform the customer of any change in the Standardised Base Rate (SBR).""",1,Admin_Info,Promotes transparency and reduces Uncertainty (Gharar) in the financial relationship.
+42,"""The contract involves a hidden interest swap agreement with a conventional bank.""",0,Shariah_Concept,Non-Compliant: Use of derivatives to mask Usury (Riba) through complex structures.
+43,"""The monthly payment includes base rent which may change according to the Bank's Base Rate.""",1,Profit_Interest,Compliant leasing structure where rental is adjusted based on a Shariah-compliant benchmark.
+44,"""Late payment will incur interest penalty of 1% per month on the total outstanding balance.""",0,Late_Payment,Non-Compliant: Application of monthly compounded Usury (Riba) on debt.
+45,"""Commodity transaction will be performed daily on an approved Shariah platform.""",1,Shariah_Concept,Ensures the validity of the Tawarruq process through real trading of physical assets.
+46,"""The loan balance includes an annual insurance premium for conventional life insurance.""",0,Insurance_Takaful,"Non-Compliant: Financing of conventional insurance which involves Usury, Uncertainty, and Gambling."
+47,"""The Bank acts as the customer's Purchase Agent to buy commodities on a deferred basis.""",1,Shariah_Concept,Compliant application of Wakalah in the purchase stage of a Tawarruq transaction.
+48,"""Investment in a venture that involves trading of future debt for current cash at a discount.""",0,Shariah_Concept,Non-Compliant: Involves Bay' al-Dayn (sale of debt) which results in prohibited Usury (Riba).
+49,"""The Bank may exercise its right to auction the property if there is a prolonged default.""",1,Risks,Compliant as the bank has the right to realize the collateral in a secured financing contract.
+50,"""The agreement includes a clause for the automatic rollover of debt with added interest.""",0,Late_Payment,Non-Compliant: Direct practice of Usury (Riba) through debt extension for a fee.
+51,"""The Bank's Sale Price is fixed and will not increase even if market rates rise.""",1,Price_Structure,"Compliant as the price is fixed at the start, eliminating Uncertainty (Gharar) in the debt amount."
+52,"""The interest rate is floating and may be adjusted monthly based on the interbank rate.""",0,Profit_Interest,Non-Compliant: Fluctuating costs based on Usury (Riba) without a transparent sale price cap.
+53,"""Under the Tawarruq arrangement, the Bank acts as the Purchase Agent for the customer.""",1,Shariah_Concept,"Compliant via Wakalah (Agency), allowing the bank to execute commodity trades on behalf of the client."
+54,"""The customer must pay a service fee that is a percentage of the total loan amount.""",0,Fees_Charges,Non-Compliant: Fees calculated as a percentage of a loan often function as hidden Usury (Riba).
+55,"""The customer is entitled to a rebate (Ibra') if the financing is settled before the maturity date.""",1,Rebate,"Adheres to the principle of Ibra', where the creditor waives part of the debt for early payment."
+56,"""Failure to pay will result in the bank charging interest on the unpaid interest portion.""",0,Late_Payment,Non-Compliant: Direct application of Compound Usury (Riba al-Jahiliyyah).
+57,"""The property will be leased to the customer under the principle of Ijarah.""",1,Shariah_Concept,"Compliant via Ijarah (Leasing), where the customer pays for the right to use the asset (Usufruct)."
+58,"""The bank reserves the right to change the lease terms at its sole discretion without notice.""",0,General_Principles,Non-Compliant: Introduces Uncertainty (Gharar) and potential for unfair contractual terms (Zulm).
+59,"""Ta’widh shall be charged at a rate of 1% on the arrears of the monthly installments.""",1,Late_Payment,"Compliant as Ta'widh (compensation) is based on the actual cost of funds, not for profit."
+60,"""This loan facility is linked to a conventional insurance policy that involves gambling elements.""",0,Insurance_Takaful,Non-Compliant: Involves Gambling (Maysir) and Uncertainty inherent in conventional insurance.
+61,"""The Commodity Murabahah transaction ensures that the financing is backed by physical assets.""",1,Shariah_Concept,"Compliant as the transaction is based on a real trade of goods, avoiding a ""money-for-money"" exchange."
+62,"""Selling price is inclusive of a 5% interest rate compounded annually over 30 years.""",0,Price_Structure,Non-Compliant: Explicitly builds the contract on a foundation of Usury (Riba).
+63,"""The Bank will provide 21 days’ notice for any variation in the Standardised Base Rate (SBR).""",1,Admin_Info,Promotes transparency and reduces Uncertainty (Gharar) in the financial relationship.
+64,"""The contract includes a buy-back clause where the bank must buy the asset back at a lower price.""",0,Shariah_Concept,"Non-Compliant: Represents Bay' al-'Inah, a fictitious sale used to mask Usury (Riba)."
+65,"""The customer may appoint a third party to act as an agent for the sale of commodities.""",1,Shariah_Concept,"Compliant as it follows the Wakalah principle, ensuring a valid separation of duties in Tawarruq."
+66,"""Profit is guaranteed to the bank regardless of whether the business venture succeeds or fails.""",0,Profit_Interest,"Non-Compliant: Violates the Risk-Sharing principle, turning a partnership into an interest-based loan."
+67,"""The Ceiling Profit Rate (CPR) acts as the maximum price that the bank can charge.""",1,Price_Structure,Compliant mechanism that ensures the customer is protected from extreme Uncertainty (Gharar).
+68,"""Any default will result in an immediate 2% increase in the annual interest rate.""",0,Late_Payment,Non-Compliant: Punitive rate hike that constitutes additional Usury (Riba) on debt.
+69,"""Property financing is based on a Musharakah Mutanaqisah (Diminishing Partnership) contract.""",1,Shariah_Concept,Compliant through equity participation and the gradual purchase of the bank's share.
+70,"""The agreement allows for the investment of funds in companies that produce alcoholic beverages.""",0,Prohibited_Activity,Non-Compliant: Investment in prohibited industries violates Shariah ethics and Social Responsibility.
+71,"""Late payment charges (Gharamah) are channeled to charitable organizations approved by Shariah.""",1,Late_Payment,"Compliant as the bank does not benefit from the penalty, avoiding the appearance of Usury."
+72,"""The contract involves the exchange of an unknown quantity of goods for a fixed price.""",0,Shariah_Concept,Non-Compliant: Presence of Uncertainty (Gharar) regarding the subject matter of the sale.
+73,"""For properties under construction, the Bank uses Ijarah Mawsufah fi Zimmah.""",1,Shariah_Concept,"Compliant forward-lease contract for assets yet to be completed, a recognized Shariah arrangement."
+74,"""The bank will charge a fee for 'waiving' the right to take legal action against a defaulter.""",0,Fees_Charges,Non-Compliant: Selling a right to delay payment is a form of Usury (Riba).
+75,"""The Effective Profit Rate (EPR) will be lower than or equal to the Ceiling Profit Rate.""",1,Profit_Interest,Compliant adjustment where the bank gives a rebate (Ibra') to match market rates.
+76,"""The loan agreement includes a clause where the interest rate is based on the LIBOR index.""",0,Profit_Interest,Non-Compliant: Uses a conventional benchmark tied to interest-based lending (Usury).
+77,"""The Bank as an agent sells the commodity to the Commodity Purchaser on a spot basis.""",1,Shariah_Concept,Final stage of Tawarruq executed through a valid sale to generate cash for the customer.
+78,"""The financing is used to purchase a property that will be used as a casino or nightclub.""",0,Prohibited_Activity,Non-Compliant: Supporting activities that promote Gambling (Maysir) or immoral behavior.
+79,"""Commodity transaction is performed via an approved trading platform like Bursa Suq Al-Sila'.""",1,Shariah_Concept,"Ensures the underlying trade in Tawarruq is real, verifiable, and Shariah-compliant."
+80,"""The bank guarantees the return of the principal amount in a high-risk investment partnership.""",0,General_Principles,Non-Compliant: Capital guarantees in partnership contracts convert the contract into a loan with Usury.
+81,"""The Bank will provide you with a copy of the Product Disclosure Sheet (PDS).""",1,Admin_Info,"Compliant with transparency and consumer protection laws, reducing Uncertainty (Gharar)."
+82,"""All risks related to the maintenance of the property are transferred to the tenant immediately.""",0,Shariah_Concept,"Non-Compliant: In an Ijarah (lease), the owner (Bank) should bear ownership-related risks."
+83,"""The customer may exercise the option to purchase the property at the end of the lease period.""",1,Shariah_Concept,"Core feature of Ijarah Muntahiyah Bi Tamlik, allowing ownership transfer after the lease ends."
+84,"""If the market price of gold falls, the loan balance will increase proportionally.""",0,Price_Structure,Non-Compliant: Involves excessive Uncertainty (Gharar) and elements of speculative gambling.
+85,"""The formula for Ibra’ is: (Outstanding Sale Price - Settlement Amount).""",1,Rebate,Compliant and standardized method to calculate the amount waived by the bank for early settlement.
+86,"""The bank will charge interest even if the asset is destroyed and cannot be used by the customer.""",0,Risks,Non-Compliant: Charging for a service not provided violates Shariah principles of Justice (Adl).
+87,"""The customer agrees to pay the Sale Price through monthly installments until full settlement.""",1,Profit_Interest,Compliant deferred payment arrangement (Bai' Bithaman Ajil) with a fixed debt amount.
+88,"""The agreement includes a 'Hidden Commission' that is not disclosed in the PDS.""",0,Fees_Charges,Non-Compliant: Lack of transparency leads to Uncertainty (Gharar) for the consumer.
+89,"""The SBR is linked to the OPR level determined by Bank Negara Malaysia.""",1,Profit_Interest,Compliant use of a national benchmark for floating-rate profit adjustments in Islamic finance.
+90,"""Proceeds from this financing are used to pay off existing conventional interest-based loans.""",0,Shariah_Concept,Non-Compliant: Using Islamic funds to settle Usury (Riba) without a proper restructuring contract.
+91,"""Hibah (gift) may be provided to the customer at the sole discretion of the Bank.""",1,Shariah_Concept,"Compliant use of Hibah as an incentive, provided it is not contractually guaranteed."
+92,"""The contract involves a bet on whether the property value will double in five years.""",0,Prohibited_Activity,Non-Compliant: Direct involvement in Gambling (Maysir) and speculative risk.
+93,"""The Bank reserves the right to set-off any credit balance in your account with seven days notice.""",1,Risks,Compliant administrative right of the bank to recover debt from a customer's other accounts.
+94,"""The transaction involves the sale of a debt for another debt (Bai' al-Dayn bi al-Dayn).""",0,Shariah_Concept,Non-Compliant: Trading of debt for debt is a prohibited form of Usury (Riba).
+95,"""Total amount of rent paid during the initial lease period is not refundable under HouzKEY.""",1,Risks,Compliant as the payment is for the use of the asset (Usufruct) during the lease term.
+96,"""Interest rate is fixed for the first two years and thereafter follows the market rate.""",0,Profit_Interest,"Non-Compliant: Typical conventional ""teaser rate"" structure based on Usury (Riba)."
+97,"""The Sale Agent (Bank) sells the commodity to the Commodity Buyer at cost price.""",1,Shariah_Concept,Compliant step in the Tawarruq cycle to realize cash for the customer's needs.
+98,"""The bank takes a percentage of the customer's business profit but zero share of the losses.""",0,Profit_Interest,Non-Compliant: Violates the Risk-Sharing rule where profit follows loss risk (Al-Kharaj bi al-Daman).
+99,"""Any changes in the OPR will lead to an adjustment in the monthly payment amount.""",1,Profit_Interest,"Compliant mechanism for variable-rate financing, ensuring the bank stays competitive."
+100,"""The agreement includes a clause allowing the bank to charge for 'imaginary' services.""",0,Fees_Charges,Non-Compliant: Charging without counter-value is a form of Uncertainty (Gharar) and Riba.
+101,"""The Bank purchases the property from the developer to be leased to the customer.""",1,Shariah_Concept,"Compliant as the bank takes legal possession of the asset before leasing, fulfilling the Risk-Ownership rule."
+102,"""The contract involves the sale of an item that is not yet in existence or produced.""",0,Shariah_Concept,Non-Compliant: Presence of Uncertainty (Gharar) due to the non-existence of the subject matter (Ma'dum).
+103,"""The customer pays monthly rental which consists of the base rent and a variable component.""",1,Profit_Interest,Compliant leasing structure where the rental rate is linked to a transparent benchmark.
+104,"""An administrative fee of 2% is added to the loan balance for every month of non-payment.""",0,Late_Payment,Non-Compliant: Functions as hidden Usury (Riba) by increasing the debt amount over time.
+105,"""The Bank will grant Ibra’ (rebate) if the actual profit rate is lower than the ceiling rate.""",1,Rebate,"Adheres to the principle of Ibra', ensuring the customer is not overcharged beyond market rates."
+106,"""The lender is entitled to a fixed return on the investment regardless of profit or loss.""",0,Profit_Interest,Non-Compliant: Guaranteed returns in a venture are considered a form of Usury (Riba).
+107,"""Takaful contribution is calculated based on the financing amount and the tenure.""",1,Insurance_Takaful,Compliant as it uses Takaful (mutual protection) instead of conventional interest-based insurance.
+108,"""The financing will be used to fund a project involving the distribution of pork products.""",0,Prohibited_Activity,Non-Compliant: Involvement in Haraam industries violates Shariah Ethical Investment standards.
+109,"""The customer may appoint the Bank to act as an agent for the purchase of commodities.""",1,Shariah_Concept,Compliant use of Wakalah (Agency) to facilitate the underlying trade in Tawarruq.
+110,"""The agreement includes a clause where the price is determined by a random draw.""",0,Price_Structure,Non-Compliant: Introduces elements of Gambling (Maysir) and excessive Uncertainty (Gharar).
+111,"""The Sale Price remains unchanged throughout the tenure of the financing facility.""",1,Price_Structure,"Compliant as it provides price certainty, eliminating Uncertainty (Gharar) for the buyer."
+112,"""A penalty of RM50 is charged for late payment and is kept as bank profit.""",0,Late_Payment,Non-Compliant: Penalties kept as profit are seen as a form of Usury (Riba) on debt.
+113,"""Late payment charges (Ta’widh) shall not be compounded on the outstanding balance.""",1,Late_Payment,Adheres to Shariah rules by prohibiting Interest-on-Interest (Compound Riba).
+114,"""The transaction involves a short-term loan that must be repaid with a 10% 'gift'.""",0,Shariah_Concept,Non-Compliant: A pre-conditioned gift in a loan is technically Usury (Riba) (Qard yu'addi ila naf').
+115,"""The Bank will provide 21 days' notice for any changes to the profit rate.""",1,Admin_Info,Compliant with transparency requirements to protect the customer from Uncertainty (Gharar).
+116,"""The contract involves the exchange of 1kg of high-quality gold for 2kg of low-quality gold.""",0,Shariah_Concept,Non-Compliant: Involves Riba al-Fadl (Usury of surplus) in the exchange of ribawi items.
+117,"""The customer is responsible for the basic maintenance of the property during the lease.""",1,Shariah_Concept,Compliant as the tenant bears operational costs while the owner bears structural risks in Ijarah.
+118,"""The bank takes no responsibility for the condition of the asset sold to the customer.""",0,General_Principles,Non-Compliant: Violates the principle of Seller's Liability (Daman) in a valid sale.
+119,"""Under Tawarruq, the Bank sells the commodity to the customer on a deferred payment basis.""",1,Shariah_Concept,Compliant stage of Tawarruq where the debt is created through a valid trade of assets.
+120,"""Financing is provided for an online betting platform operation.""",0,Prohibited_Activity,Non-Compliant: Direct support for Gambling (Maysir) which is strictly forbidden.
+121,"""The ceiling rate of 10.25% p.a. protects you from extreme market fluctuations.""",1,Profit_Interest,"Compliant mechanism to limit risk and provide clarity, reducing Uncertainty (Gharar)."
+122,"""The borrower must pay a commission to the lender for every month the loan is outstanding.""",0,Profit_Interest,Non-Compliant: Periodic commissions on loans are interpreted as Usury (Riba).
+123,"""The Bank shall grant a rebate on the profit portion for early settlement.""",1,Rebate,Adheres to the BNM guidelines on Ibra' to ensure fairness in debt settlement.
+124,"""The contract is valid only if the customer wins a specific sports match.""",0,General_Principles,Non-Compliant: Conditional contracts based on chance involve Uncertainty (Gharar).
+125,"""This product disclosure sheet highlights the key terms of your Islamic financing.""",1,Admin_Info,Promotes Information Symmetry and reduces Uncertainty regarding the contract.
+126,"""Compound interest will be charged on all overdue installments.""",0,Late_Payment,Non-Compliant: Features Usury (Riba) where the debt multiplies due to time.
+127,"""The property may be foreclosed if the customer fails to meet the payment obligations.""",1,Risks,Compliant as the bank has the right to collateral (Rahn) in a secured trade transaction.
+128,"""The financing involves the purchase of shares in a brewery company.""",0,Prohibited_Activity,Non-Compliant: Investment in Haraam industries contradicts Shariah Social Ethics.
+129,"""The Bank's BRI is linked to the Standardised Base Rate (SBR) set by BNM.""",1,Profit_Interest,Compliant use of a regulated benchmark for transparent profit rate adjustments.
+130,"""The agreement allows the bank to change the price of the asset after the sale is completed.""",0,Price_Structure,Non-Compliant: Price must be fixed at the point of sale to avoid Uncertainty (Gharar).
+131,"""Hibah (gift) of the profit portion can be given by the bank at its discretion.""",1,Shariah_Concept,Compliant use of Hibah as a non-contractual incentive to customers.
+132,"""The contract includes an interest-based swap to hedge against currency risk.""",0,Shariah_Concept,Non-Compliant: Derivatives involving Usury (Riba) are not Shariah-compliant.
+133,"""The Bank acts as the Sale Agent to sell the commodity to the third-party buyer.""",1,Shariah_Concept,Compliant execution of the final trade in a Tawarruq (Commodity Murabahah) cycle.
+134,"""A loan is provided on the condition that the borrower rents a house from the lender.""",0,Shariah_Concept,Non-Compliant: Prohibited combination of two contracts (Bay' wa Salaf) to hide Riba.
+135,"""You may refer to AKPK for credit counseling and debt management services.""",1,Admin_Info,Compliant with regulatory requirements to provide consumer support and reduce Zulm.
+136,"""The interest rate will double if the borrower's income decreases.""",0,Profit_Interest,Non-Compliant: Punitive and exploitative Usury (Riba) based on the borrower's hardship.
+137,"""For properties under construction, the lease starts only upon completion.""",1,Shariah_Concept,Adheres to Ijarah Mawsufah fi Zimmah where the lease is for a future asset.
+138,"""The investment fund guarantees a return of 10% p.a. through a loan-back scheme.""",0,Profit_Interest,Non-Compliant: Guaranteed returns in investments are considered Usury (Riba).
+139,"""Total Profit is the difference between the Sale Price and the Purchase Price.""",1,Profit_Interest,Compliant as profit is derived from a transparent trade margin (Murabahah).
+140,"""The agreement is written in a language that the customer cannot understand.""",0,General_Principles,Non-Compliant: Creates Uncertainty (Gharar) regarding the rights and obligations.
+141,"""The Bank shall inform you in writing of the actual monthly payment amount.""",1,Admin_Info,Promotes transparency and eliminates Uncertainty (Gharar) in financial planning.
+142,"""The lender takes a commission for 'looking after' the money lent to the borrower.""",0,Profit_Interest,Non-Compliant: Charging for a loan without a real service is a form of Usury (Riba).
+143,"""The customer may choose to walk away at the end of the lease without purchasing.""",1,Shariah_Concept,"Compliant with Ijarah where the purchase option is a right, not an obligation."
+144,"""The transaction involves selling a debt to a third party at a discounted price.""",0,Shariah_Concept,Non-Compliant: Discounting debt (Bay' al-Dayn) is a prohibited form of Usury (Riba).
+145,"""Proceeds from the commodity sale are disbursed to the developer for your home.""",1,Shariah_Concept,Compliant disbursement process to ensure the funds are used for the intended asset purchase.
+146,"""The bank will charge interest even if the customer is declared bankrupt.""",0,Late_Payment,Non-Compliant: Exploitative Usury (Riba) that ignores the Shariah rule of giving respite.
+147,"""Commodity transaction is based on Shariah-compliant assets like crude palm oil.""",1,Shariah_Concept,Ensures the underlying trade in Tawarruq involves halal and real commodities.
+148,"""The financing will be used to purchase shares in a tobacco manufacturing firm.""",0,Prohibited_Activity,Non-Compliant: Violates Shariah Ethical Screening against harmful (Dharar) products.
+149,"""The SBR may change from time to time based on Bank Negara Malaysia's policy.""",1,Profit_Interest,Compliant as the benchmark is regulated and applied consistently across the industry.
+150,"""The contract involves a gamble on the future movement of the USD/MYR exchange rate.""",0,Prohibited_Activity,Non-Compliant: Purely speculative trading involving Gambling (Maysir).
+151,"""The customer agrees to purchase the commodity from the Bank at the Sale Price (Purchase Price + Profit).""",1,Shariah_Concept,Compliant under Murabahah (cost-plus sale) where the profit margin is mutually agreed upon.
+152,"""The loan agreement includes a clause that permits the lender to charge a fee for 'money-time' value.""",0,Profit_Interest,Non-Compliant: Direct application of Usury (Riba) based on the passage of time without a trade asset.
+153,"""For properties under construction, no payment is required during the construction period.""",1,Financing_Structure,Compliant as the lease payment only begins once the asset is ready for use in Ijarah.
+154,"""The bank will provide a discount on interest if the borrower pays two weeks earlier than the due date.""",0,Profit_Interest,Non-Compliant: Discounting Usury (Riba) is still part of a prohibited interest-based lending system.
+155,"""Ta'widh (compensation) is only applicable on the overdue principal amount, not the profit portion.""",1,Late_Payment,Compliant as it avoids Compound Riba by not charging compensation on the profit already earned.
+156,"""The contract involves the sale of a harvest that has not yet grown or been planted.""",0,Shariah_Concept,Non-Compliant: Presence of Uncertainty (Gharar) due to the sale of non-existent future produce.
+157,"""The Bank's Effective Profit Rate is capped at the Ceiling Profit Rate to protect the customer.""",1,Profit_Interest,Compliant mechanism that ensures price transparency and reduces Uncertainty (Gharar).
+158,"""Failure to maintain the loan balance will result in a penalty that is added to the interest-bearing debt.""",0,Late_Payment,Non-Compliant: Features Interest-on-Interest which constitutes Riba al-Jahiliyyah.
+159,"""This financing facility is available for first-time homebuyers who are Malaysian citizens.""",1,Admin_Info,Compliant administrative criteria that do not conflict with Shariah commercial principles.
+160,"""The agreement includes a clause for a secret commission to be paid to an undisclosed third party.""",0,Fees_Charges,Non-Compliant: Lack of transparency leads to Uncertainty (Gharar) and potential fraud.
+161,"""The Bank remains the owner of the property and bears the risk of total loss or destruction.""",1,Shariah_Concept,Adheres to the principle of Ownership Risk (Daman) in an Ijarah lease agreement.
+162,"""The loan is conditional upon the borrower purchasing a life insurance policy from a specific provider.""",0,General_Principles,Non-Compliant: Prohibited combination of contracts (Al-Uqud al-Murakkabah) to force a conventional service.
+163,"""Any excess profit from the commodity sale will be given back to the customer as a rebate (Ibra').""",1,Rebate,Compliant adjustment mechanism to ensure the customer only pays the effective market rate.
+164,"""The profit rate is linked to a speculative index that tracks offshore gambling revenues.""",0,Prohibited_Activity,Non-Compliant: Involves both Gambling (Maysir) and investment in prohibited industries.
+165,"""The customer shall pay the Bank the Sale Price by way of monthly installments for the Tenure.""",1,Profit_Interest,Compliant deferred payment sale (Bai' Bithaman Ajil) with a fixed and known debt amount.
+166,"""The bank reserves the right to increase the monthly interest rate if the national inflation rate rises.""",0,Profit_Interest,Non-Compliant: Unilateral adjustment of Usury (Riba) without a Shariah-compliant benchmark.
+167,"""The Bank acts as your agent (Wakil) to purchase the commodities from the supplier.""",1,Shariah_Concept,Compliant application of Wakalah to execute the first leg of a Tawarruq transaction.
+168,"""The contract involves a 'bet' on whether the central bank will lower rates next month.""",0,Prohibited_Activity,Non-Compliant: Pure speculation and Gambling (Maysir) on future economic indicators.
+169,"""Property Financing-i (Tawarruq) is intended for the purchase of a residential property.""",1,Shariah_Concept,Compliant use of a trade-based contract (Tawarruq) for asset acquisition.
+170,"""The bank will charge a flat fee for every transaction, regardless of the amount of the loan.""",0,Fees_Charges,"Non-Compliant: If the fee is not linked to an actual service cost, it can be a disguise for Usury (Riba)."
+171,"""The property must be used for Shariah-compliant purposes only throughout the lease term.""",1,General_Principles,Ensures the usage of the asset does not involve prohibited activities like Gambling or Haraam trade.
+172,"""This loan facility is used to finance the construction of a conventional pig farm.""",0,Prohibited_Activity,Non-Compliant: Financing of prohibited items is against the Shariah principle of Halal Earnings.
+173,"""Under the HouzKEY scheme, you may nominate a nominee to take over the lease in case of death.""",1,Shariah_Concept,Compliant administrative provision to ensure the continuity of the lease or transfer of rights.
+174,"""The interest rate on the loan is 0% but a 10% 'processing fee' is charged upfront.""",0,Fees_Charges,Non-Compliant: Upfront fees that represent a percentage of the loan are often hidden Usury (Riba).
+175,"""Commodities used for the transaction include palm oil, plastic resin, or rubber.""",1,Shariah_Concept,Compliant as it involves the trade of Halal and Real Assets to facilitate the financing.
+176,"""The contract involves a swap where the customer pays a fixed interest and receives a floating rate.""",0,Shariah_Concept,Non-Compliant: Derivatives based on Usury (Riba) are prohibited in Islamic finance.
+177,"""Ibra' is the waiver of the Bank's right to the remaining profit upon early settlement.""",1,Rebate,"Adheres to the principle of Ibra', promoting justice and reducing the burden on the debtor."
+178,"""The lender takes a 50% share of the business profit but takes zero responsibility for capital loss.""",0,Profit_Interest,Non-Compliant: Violates the Risk-Sharing principle (Al-Ghurm bi al-Ghunm) in partnership.
+179,"""The Bank will issue a Letter of Offer detailing the terms and conditions of the financing.""",1,Admin_Info,Promotes transparency and reduces Uncertainty (Gharar) for the customer before signing.
+180,"""The loan agreement is subject to 'Penalty Interest' that compounds daily until paid.""",0,Late_Payment,Non-Compliant: Application of Compound Usury (Riba al-Jahiliyyah) on overdue debt.
+181,"""Monthly payments will vary according to changes in the Base Rate Islamic (BRI).""",1,Profit_Interest,Compliant use of a transparent and regulated Shariah benchmark for variable profit.
+182,"""The contract involves the sale of fish in the sea that have not been caught yet.""",0,Shariah_Concept,Non-Compliant: Excessive Uncertainty (Gharar) as the seller cannot guarantee delivery.
+183,"""You may exercise the option to purchase the property at a price to be agreed upon later.""",1,Shariah_Concept,Compliant with Ijarah where the purchase is a separate future promise (Wa'd).
+184,"""The bank will charge interest even if the property is uninhabitable due to structural failure.""",0,Risks,Non-Compliant: Charging for a lease without a usable asset violates the principle of Justice.
+185,"""The Bank shall act as your agent to sell the commodities to the Commodity Purchaser for cash.""",1,Shariah_Concept,Final step of Tawarruq to provide the customer with liquid funds through a valid sale.
+186,"""Proceeds from this financing will be used to purchase shares in a commercial casino.""",0,Prohibited_Activity,Non-Compliant: Funding Gambling (Maysir) operations is strictly prohibited.
+187,"""Total Profit is derived from the difference between the Sale Price and the Purchase Price.""",1,Profit_Interest,"Compliant as the income is generated from Trade (Murabahah), not a loan with interest."
+188,"""The borrower must pay a commission to the bank's CEO for the loan approval.""",0,Fees_Charges,Non-Compliant: Bribes or unethical commissions are prohibited and can lead to Uncertainty.
+189,"""The SBR is a benchmark rate to be used for new floating-rate financing.""",1,Profit_Interest,Compliant use of the Standardised Base Rate as mandated by Bank Negara Malaysia.
+190,"""The agreement allows for a 'lottery draw' to determine who has to pay higher interest.""",0,Prohibited_Activity,Non-Compliant: Directly incorporates Gambling (Maysir) into the debt terms.
+191,"""Hibah is a gift from the Bank to you and it is not a part of the contract.""",1,Shariah_Concept,"Compliant use of Hibah as a discretionary gift, ensuring it is not a pre-conditioned return."
+192,"""The contract involves trading debt for a specific amount of gold to be delivered next year.""",0,Shariah_Concept,Non-Compliant: Trading debt for a ribawi item is a form of Usury (Riba).
+193,"""The Bank reserves the right to set-off your credit balance against your overdue financing.""",1,Risks,Compliant administrative right of the bank to recover debt from the debtor's assets.
+194,"""The bank will charge an 'inflation adjustment' fee on the principal amount every year.""",0,Profit_Interest,Non-Compliant: Inflation indexing of debt principal is generally seen as a form of Usury (Riba).
+195,"""The customer may appoint a third party to perform the commodity trading.""",1,Shariah_Concept,"Compliant use of Wakalah, allowing for a separation between the financier and the agent."
+196,"""The bank takes a 10% fee for 'handling' a loan that was never disbursed.""",0,Fees_Charges,Non-Compliant: Charging for a service not rendered is a form of Uncertainty (Gharar).
+197,"""Your property may be foreclosed if you do not keep up with your payments.""",1,Risks,Compliant warning regarding Collateral (Rahn) in a secured financing arrangement.
+198,"""The financing involves the purchase of liquor and its distribution to retail outlets.""",0,Prohibited_Activity,Non-Compliant: Financing Haraam trade is against Shariah Ethical Standards.
+199,"""The Effective Profit Rate (EPR) will not exceed the Ceiling Profit Rate (CPR).""",1,Profit_Interest,"Compliant protection for the customer against excessive price hikes, reducing Uncertainty."
+200,"""The contract involves the sale of a box whose contents are unknown to the buyer.""",0,General_Principles,Non-Compliant: Presence of Uncertainty (Gharar) regarding the subject matter of the sale.
+201,"""The Bank purchases the commodity at the Purchase Price and sells it to you at the Sale Price.""",1,Shariah_Concept,"Compliant via Murabahah (cost-plus sale), where profit is derived from trade, not a loan."
+202,"""The interest rate will be adjusted based on the lender's internal profit targets without a cap.""",0,Profit_Interest,Non-Compliant: Excessive Uncertainty (Gharar) and potential for exploitative Usury (Riba).
+203,"""Under HouzKEY, the Bank pays for the cost of property insurance (Takaful) and quit rent.""",1,Shariah_Concept,Adheres to Ijarah principles where the owner (Bank) is responsible for ownership costs.
+204,"""The borrower must pay a fee to 'lock-in' a lower interest rate for the duration of the loan.""",0,Fees_Charges,Non-Compliant: Selling a rate reduction is a form of Usury (Riba) on a debt contract.
+205,"""Ta'widh (compensation) is only charged if the customer is found to be in default of payment.""",1,Late_Payment,Compliant as Ta'widh is a legitimate charge for actual loss incurred by the financier.
+206,"""The contract is based on the sale of crops that may or may not be harvested due to weather.""",0,Shariah_Concept,Non-Compliant: Involves excessive Uncertainty (Gharar) regarding the delivery of the asset.
+207,"""Ibra' is given as a gift from the Bank to the customer for early settlement of the debt.""",1,Rebate,Compliant use of Ibra' (rebate) which is at the discretion of the creditor to waive their right.
+208,"""The bank will charge interest on the total amount of late payment fees accumulated.""",0,Late_Payment,Non-Compliant: Practice of Interest-on-Interest which constitutes prohibited Usury (Riba).
+209,"""The customer acts as the Bank's agent to identify and purchase the specified commodity.""",1,Shariah_Concept,Compliant use of Wakalah (agency) to facilitate the asset acquisition stage in Tawarruq.
+210,"""The financing is used to acquire shares in a company that operates casino cruises.""",0,Prohibited_Activity,Non-Compliant: Direct investment in Gambling (Maysir) activities is strictly prohibited.
+211,"""The Bank's Sale Price consists of the asset cost and the bank's agreed profit margin.""",1,Price_Structure,Compliant as the price and profit are fixed and transparent at the time of contract.
+212,"""The agreement allows the bank to change the subject of the sale after the deposit is paid.""",0,General_Principles,Non-Compliant: Introduces Uncertainty (Gharar) regarding the subject matter of the contract.
+213,"""Late payment (Ta`widh) rate is 1% per annum or as determined by Bank Negara Malaysia.""",1,Late_Payment,"Compliant as the rate is regulated and based on actual loss compensation, not bank profit."
+214,"""The interest on the loan will be waived if the borrower's favorite team wins the league.""",0,Profit_Interest,Non-Compliant: Linking financial terms to random outcomes involves Gambling (Maysir).
+215,"""The Bank provides a Letter of Offer that outlines the Ceiling Profit Rate for the facility.""",1,Admin_Info,Promotes transparency and eliminates Uncertainty (Gharar) for the consumer.
+216,"""The contract involves the exchange of debt for a future delivery of silver at a discount.""",0,Shariah_Concept,Non-Compliant: Discounting debt or trading it for ribawi items is a form of Usury (Riba).
+217,"""The customer may request to terminate the Ijarah lease by giving written notice to the Bank.""",1,Shariah_Concept,Compliant with Ijarah rules regarding the termination of a lease agreement by the lessee.
+218,"""The bank guarantees a 12% return on a venture that involves trading prohibited items.""",0,Prohibited_Activity,Non-Compliant: Combines guaranteed returns (Usury) with investment in Haraam trade.
+219,"""Under Tawarruq, the Bank sells the commodity to the customer on a deferred payment basis.""",1,Shariah_Concept,Valid stage in Tawarruq to create a debt obligation based on an actual asset trade.
+220,"""The monthly repayment increases automatically if the borrower remains unemployed.""",0,Late_Payment,Non-Compliant: Exploitative and contrary to the Shariah principle of Respite (Inzar) for debtors.
+221,"""Total Profit is the amount you pay in excess of the Purchase Price over the tenure.""",1,Profit_Interest,"Compliant as the 'profit' is a fixed margin from a sale, not interest on a money loan."
+222,"""The agreement includes a clause where the price of the house is hidden from the buyer.""",0,Price_Structure,"Non-Compliant: Presence of Uncertainty (Gharar) in the price, which is a pillar of the contract."
+223,"""Hibah (gift) may be granted by the Bank to customers who maintain an active account.""",1,Shariah_Concept,Compliant use of Hibah as a discretionary gift to encourage customer loyalty.
+224,"""The contract involves a bet on the price of oil reaching $100 per barrel by next year.""",0,Prohibited_Activity,Non-Compliant: Purely speculative behavior that constitutes Gambling (Maysir).
+225,"""The Bank will inform the customer of any change in the Standardised Base Rate (SBR).""",1,Admin_Info,Ensures transparency and avoids Uncertainty (Gharar) regarding the monthly installments.
+226,"""Compound charges will be imposed on overdue interest and principal amounts.""",0,Late_Payment,Non-Compliant: Direct application of Compound Usury (Riba al-Jahiliyyah).
+227,"""The property is used as collateral (Rahn) for the financing provided by the Bank.""",1,Risks,Compliant use of Rahn (Pledge) to secure the debt generated from a trade transaction.
+228,"""The financing will be used to fund the production of films that promote immoral activities.""",0,Prohibited_Activity,Non-Compliant: Financing activities that contradict Shariah Ethical Principles.
+229,"""The SBR is a transparent benchmark linked to the Overnight Policy Rate (OPR).""",1,Profit_Interest,"Compliant as the benchmark is public, regulated, and used to calculate profit fairly."
+230,"""The agreement allows the bank to change the profit margin unilaterally after signing.""",0,Price_Structure,Non-Compliant: Introduces Uncertainty (Gharar) and violates the fixed-price rule in Murabahah.
+231,"""Hibah is a voluntary gift and is not a contractual obligation of the Bank.""",1,Shariah_Concept,"Compliant as the gift is not guaranteed, avoiding it being seen as a form of Riba."
+232,"""The lender will charge an 'opportunity cost' fee for every month the loan is not paid.""",0,Profit_Interest,Non-Compliant: Charging for 'time' or 'opportunity' on a debt is a form of Usury (Riba).
+233,"""The Bank acts as your agent to sell the commodities to a third party for cash.""",1,Shariah_Concept,Valid use of Wakalah (Agency) to complete the Tawarruq cycle and provide liquidity.
+234,"""The contract involves selling a property that is currently under a legal dispute.""",0,Shariah_Concept,Non-Compliant: High degree of Uncertainty (Gharar) regarding the delivery of the asset.
+235,"""The PDS provides a summary of the key features and risks of the financing product.""",1,Admin_Info,Promotes Information Symmetry and reduces Uncertainty for the customer.
+236,"""The bank will charge interest even if the customer is unable to pay due to a disaster.""",0,Late_Payment,Non-Compliant: Exploitative Usury (Riba) that ignores the Shariah duty of compassion.
+237,"""HouzKEY is based on the Shariah contract of Ijarah Muntahiyah Bi Tamlik.""",1,Shariah_Concept,Compliant lease-to-own arrangement recognized by the Shariah Advisory Council.
+238,"""The financing involves the purchase of specialized equipment for a brewery.""",0,Prohibited_Activity,Non-Compliant: Facilitating the production of Haraam items (liquor) is prohibited.
+239,"""Total Sale Price is fixed at the point of signing the Murabahah agreement.""",1,Price_Structure,"Compliant as it ensures price certainty, a requirement for a valid Shariah sale."
+240,"""The lender takes a share of the borrower's total salary as an interest payment.""",0,Profit_Interest,Non-Compliant: Direct charging of Usury (Riba) on a personal loan.
+241,"""The Bank shall inform you of any revisions to the monthly payment amount.""",1,Admin_Info,Promotes transparency and allows the customer to plan for their financial obligations.
+242,"""The contract involves a swap of 1kg of silver today for 1.5kg of silver next month.""",0,Shariah_Concept,Non-Compliant: Involves Riba al-Fadl (Usury of surplus) in ribawi exchanges.
+243,"""The customer may choose to purchase the property at any time during the lease.""",1,Shariah_Concept,Compliant feature of Ijarah which allows for early ownership transfer via sale.
+244,"""The bank takes zero risk and guarantees its profit even if the asset is lost.""",0,Risks,Non-Compliant: Violates the Risk-Sharing principle where profit is tied to liability.
+245,"""Commodity transaction will be performed using Bursa Suq Al-Sila' platform.""",1,Shariah_Concept,"Ensures the Tawarruq trade is real, documented, and performed on a compliant platform."
+246,"""The interest rate on the loan is 15% but is called a 'service fee' in the contract.""",0,Fees_Charges,Non-Compliant: Mislabeling Usury (Riba) as a fee does not make it compliant.
+247,"""The Bank's BRI is subject to change according to the OPR set by BNM.""",1,Profit_Interest,Compliant use of a standardized benchmark to determine variable profit rates.
+248,"""Investment in a fund that specifically targets conventional pig farming operations.""",0,Prohibited_Activity,Non-Compliant: Investment in Haraam industries violates Shariah Ethical Screening.
+249,"""The Effective Profit Rate (EPR) will be lower than the Ceiling Profit Rate (CPR).""",1,Profit_Interest,Compliant adjustment where the bank gives a rebate (Ibra') to match market rates.
+250,"""The agreement is signed without the buyer knowing what they are purchasing.""",0,General_Principles,Non-Compliant: Excessive Uncertainty (Gharar) regarding the subject of the sale.
+251,"""The Bank as your agent shall purchase the commodities from the supplier at the Purchase Price.""",1,Shariah_Concept,Compliant via Wakalah (agency) for commodity execution in Tawarruq.
+252,"""The customer shall pay a non-refundable commitment fee which will be forfeited upon cancellation.""",0,Fees_Charges,Non-Compliant: Elements of Uncertainty (Gharar) and unfair enrichment without counter-value.
+253,"""The Bank remains the legal owner of the property throughout the duration of the HouzKEY lease.""",1,Shariah_Concept,Adheres to Ijarah principles where the lessor (Bank) maintains ownership and associated risks.
+254,"""The interest rate on this loan is calculated using the Rule of 78s method.""",0,Profit_Interest,Non-Compliant: Uses a conventional accounting method to front-load Usury (Riba).
+255,"""Ibra’ is the difference between the Ceiling Profit Rate and the Effective Profit Rate.""",1,Rebate,Compliant as the bank provides a rebate (Ibra') when the market rate is lower than the capped price.
+256,"""The Bank may increase the interest rate if the customer's credit rating drops.""",0,Profit_Interest,Non-Compliant: Unilateral increase of Usury (Riba) based on credit risk without trade justification.
+257,"""Takaful protection is mandatory to cover the outstanding financing amount in case of death.""",1,Insurance_Takaful,Compliant as it utilizes Takaful (mutual cooperation) instead of conventional interest-based insurance.
+258,"""This policy covers losses arising from illegal gambling operations.""",0,Prohibited_Activity,Non-Compliant: Directly supports Gambling (Maysir) activities which are prohibited.
+259,"""Any dispute shall be referred to the Shariah Advisory Council of Bank Negara Malaysia.""",1,General_Principles,Adheres to the Shariah Governance Framework for authoritative resolution of compliance issues.
+260,"""The loan agreement is subject to a late payment interest fee that compounds monthly.""",0,Late_Payment,Non-Compliant: Presence of Compound Usury (Riba al-Jahiliyyah) on overdue payments.
+261,"""The customer purchases the commodities from the Bank on Murabahah basis at the Selling Price.""",1,Shariah_Concept,"Compliant through Murabahah (cost-plus-profit) sale, where the profit margin is known."
+262,"""Selling price is subject to change at the bank's discretion without clear parameters.""",0,Price_Structure,"Non-Compliant: Contains Uncertainty (Gharar) regarding the price, a key pillar of a sale contract."
+263,"""The Bank shall act as your agent to sell the commodities to a third-party purchaser.""",1,Shariah_Concept,Compliant use of Wakalah for the sale of assets in a Tawarruq arrangement.
+264,"""This transaction involves the exchange of debt for debt (bay' al-kali' bi al-kali').""",0,Shariah_Concept,Non-Compliant: Violates the Shariah prohibition on the exchange of future debts.
+265,"""The Bank shall inform the customer of the amount of Ta’widh charged upon default.""",1,Late_Payment,Compliant as it ensures transparency in charging Ta'widh for actual loss compensation.
+266,"""Interest is charged on the total outstanding amount including unpaid interest.""",0,Profit_Interest,Non-Compliant: Practice of Usury (Riba) involving interest on interest.
+267,"""The customer may exercise the Option to Purchase the property at the end of the lease.""",1,Shariah_Concept,Adheres to Ijarah Muntahiyah Bi Tamlik which concludes with a transfer of ownership.
+268,"""Profit margin is guaranteed regardless of market performance or risk-sharing.""",0,Profit_Interest,Non-Compliant: Violates the Risk-Sharing principle where profit must be linked to risk/trade.
+269,"""Commodity transaction shall be performed daily on an approved trading platform.""",1,Shariah_Concept,Ensures the Tawarruq process involves real Shariah-compliant assets and actual trade.
+270,"""The contract includes a condition that the customer must provide a loan to the bank.""",0,Shariah_Concept,Non-Compliant: Prohibited combination of a sale and a loan (Bay' wa Salaf).
+271,"""The Bank will provide you with a copy of the PDS for your Baiti Home Financing.""",1,Admin_Info,Compliant with transparency requirements under the Shariah Governance Framework.
+272,"""This product finances the construction of a casino and hotel complex.""",0,Prohibited_Activity,Non-Compliant: Funding of Gambling (Maysir) facilities is strictly prohibited.
+273,"""Ibra’ calculation: (Settlement Amount - Outstanding Sale Price) + Accrued Profit.""",1,Rebate,Adheres to the standardized formula for Ibra' as regulated by Bank Negara Malaysia.
+274,"""Price is based on the future unknown value of a speculative index.""",0,Price_Structure,Non-Compliant: Excessive Uncertainty (Gharar) in the determination of price.
+275,"""Proceeds from the transaction will be disbursed for the purpose of refinancing.""",1,Shariah_Concept,Compliant use of Tawarruq for debt restructuring or property refinancing.
+276,"""The loan involves a pre-signed agreement to sell back the asset at a lower price.""",0,Shariah_Concept,Non-Compliant: Involves Bay' al-'Inah (buy-back sale) which is used to circumvent Usury rules.
+277,"""You are required to take up a Mortgage Reducing Term Takaful (MRTT).""",1,Insurance_Takaful,Adheres to Shariah requirements by using Takaful for risk mitigation.
+278,"""The bank will charge an additional fee for the 'time-value' of the money lent.""",0,Profit_Interest,Non-Compliant: Explicit charging of Usury (Riba) for the passage of time.
+279,"""The Ceiling Profit Rate acts as a cap to protect the customer from rate fluctuations.""",1,Profit_Interest,Compliant mechanism to ensure fairness and reduce Uncertainty (Gharar) for the customer.
+280,"""Default in payment may result in your property being foreclosed by the Bank.""",1,Risks,Compliant as the bank has the right to collateral in a secured Murabahah transaction.
+281,"""Investment is made in a fund that deals with conventional treasury bonds.""",0,Shariah_Concept,Non-Compliant: Investment in interest-bearing instruments involves Usury (Riba).
+282,"""Gharamah (penalty) shall be distributed by the Bank to charitable organizations.""",1,Late_Payment,Compliant with Shariah as the penalty does not contribute to the bank's profit.
+283,"""The asset being sold does not exist and cannot be delivered.""",0,Shariah_Concept,Non-Compliant: Sale of non-existent assets involves Uncertainty (Gharar).
+284,"""This PDS provides you with key information on your Wahdah Home Refinancing.""",1,Admin_Info,Promotes transparency and avoids Uncertainty (Gharar) regarding product terms.
+285,"""The contract includes hidden charges not disclosed during the signing.""",0,Fees_Charges,Non-Compliant: Presence of Uncertainty (Gharar) and lack of transparency in pricing.
+286,"""Total Profit is based on the Ceiling Profit Rate of 10.25% p.a.""",1,Profit_Interest,Compliant as the total profit is capped and agreed upon at the start of the contract.
+287,"""The loan balance will be reduced by a lottery draw held once a year.""",0,Prohibited_Activity,Non-Compliant: Incorporates elements of Gambling (Maysir) in debt settlement.
+288,"""The Bank's BRI or SBRI may change by giving at least 21 calendar days notice.""",1,Admin_Info,Compliant with regulatory notice periods to ensure transparency for the customer.
+289,"""Penalty interest will be charged if the property is not insured by a conventional insurer.""",0,Insurance_Takaful,Non-Compliant: Compelling the use of interest-based insurance and charging Usury (Riba).
+290,"""Hibah of the Takaful benefits can be made to your named nominees.""",1,Shariah_Concept,Compliant use of Hibah (gift) for the distribution of Takaful benefits.
+291,"""The selling price is indexed to the price of gold in a separate future contract.""",0,Shariah_Concept,Non-Compliant: Complex contracting leading to Uncertainty (Gharar) and potential speculation.
+292,"""The customer shall pay the Bank the Sale Price through monthly installments.""",1,Profit_Interest,Compliant deferred payment structure (Bai' Bithaman Ajil) in Islamic financing.
+293,"""The loan is subject to an annual fee for maintaining the 'interest-free' status.""",0,Fees_Charges,Non-Compliant: Fees that scale with loan size or duration are often disguised Usury (Riba).
+294,"""The Bank shall inform you of any revisions to the monthly payment amount.""",1,Admin_Info,"Ensures transparency, helping the customer avoid Uncertainty (Gharar)."
+295,"""Transaction involves investment in pork meat producing companies.""",0,Prohibited_Activity,Non-Compliant: Investment in Haraam industries violates Shariah Ethical Screening.
+296,"""The Bank may exercise its right to set-off any credit balance in your account.""",1,Risks,Compliant administrative right for debt recovery under the Shariah Governance Framework.
+297,"""The agreement is signed without the buyer knowing the total cost of the asset.""",0,Price_Structure,Non-Compliant: Excessive Uncertainty (Gharar) regarding the price.
+298,"""Effective Profit Rate is lower than or equal to the Ceiling Profit Rate.""",1,Profit_Interest,Compliant adjustment mechanism ensuring the customer benefits from Ibra'.
+299,"""The lender takes a commission for every year the principal remains unpaid.""",0,Profit_Interest,Non-Compliant: Periodic commissions on principal are a form of Usury (Riba).
+300,"""The Bank will provide you with a Product Disclosure Sheet (PDS).""",1,Admin_Info,Compliant with BNM standards for consumer protection and transparency.
+301,"""The bank takes zero risk and guarantees profit even if the asset is destroyed.""",0,Risks,Non-Compliant: Violates the Risk-Sharing principle where profit is tied to liability.
+302,"""The contract follows the Shariah concept of Musyarakah Mutanaqisah.""",1,Shariah_Concept,Compliant via a Diminishing Partnership model for property financing.
