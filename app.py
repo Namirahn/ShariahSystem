@@ -98,13 +98,12 @@ def load_model():
 
 @st.cache_data
 def load_dataset():
-
-    dataset_path = r'C:\ShariahSystem\kamus.csv'
+    # Menggunakan Relative Path supaya serasi dengan Windows laptop DAN Linux Cloud Server
+    dataset_path = 'kamus.csv'
 
     if os.path.exists(dataset_path):
         df = pd.read_csv(dataset_path)
         return df, "kamus.csv"
-
     else:
         st.error("Dataset file 'kamus.csv' was not found.")
         return pd.DataFrame(), "No File"
